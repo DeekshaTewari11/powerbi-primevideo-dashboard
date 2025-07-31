@@ -13,21 +13,26 @@ The dashboard includes:
 - **Movies vs TV Shows Breakdown**
 - **Content Release Trends Over Time**
 
-## 📁 Files
-- `PRIME VIDEO.pbix` - Main Power BI file (to be uploaded)
-- `prime video screenshot.png` - Dashboard preview
+## Files
+- `PRIME VIDEO.pbix` – Main Power BI file
+- `prime video screenshot.png` – Dashboard preview image
 
-## 🛠️ Tools Used
+## Tools Used
 - Power BI Desktop
-- Data transformation in Power Query
-- DAX for calculated fields
+- Power Query for data transformation
+- DAX for calculated measures and KPIs
 
 ## Insights
-- **Drama** and **Comedy** are the top genres.
-- Most content is rated **13+** and **16+**.
-- The number of shows has increased sharply after 2015.
-- **Maggie Binkley** is the most featured actor in the dataset.
+- **Drama** and **Comedy** are the most dominant genres.
+- The majority of content is rated **13+** and **16+**.
+- A noticeable surge in releases occurred post-2015.
+- **Maggie Binkley** appears in the highest number of titles.
+
+## Data Source
+This project uses publicly available data from Kaggle:
+> [Amazon Prime Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
 
