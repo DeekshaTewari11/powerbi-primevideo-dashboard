@@ -15,7 +15,7 @@ The dashboard includes:
 
 ## 📁 Files
 - `PRIME VIDEO.pbix` - Main Power BI file (to be uploaded)
-- `Screenshot 2025-08-01 at 12.36.18 AM.png` - Dashboard preview
+- `prime video screenshot.png` - Dashboard preview
 
 ## 🛠️ Tools Used
 - Power BI Desktop
